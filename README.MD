@@ -69,6 +69,6 @@ Feel free to reach out:
 
 Email: burningtonemwatha1@gmail.com
 
-GitHub: [github.com/burningtonemwatha]
+GitHub: github.com/burningtonemwatha
 
-LinkedIn: [linkedin.com/in/burningtone-mwatha-8a154a291]
+LinkedIn: linkedin.com/in/burningtone-mwatha-8a154a291
