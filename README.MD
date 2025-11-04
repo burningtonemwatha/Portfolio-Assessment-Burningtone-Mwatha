@@ -1,5 +1,7 @@
 # Burningtone Mwatha - Portfolio Website
 
+Live deployed link: https://burningtonemwatha.github.io/Portfolio-Assessment-Burningtone-Mwatha/
+
 This is my personal portfolio website built with **HTML, CSS, JavaScript, Bootstrap, and PHP (for some projects)**.  
 It showcases my profile, background, and featured projects related to **cloud computing, web development, and cybersecurity**.
 
